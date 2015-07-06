@@ -40,4 +40,4 @@ class Human
           me.hello2
 
           p me.bmi
-        #  #p human1.check
+        #  #p me.check
