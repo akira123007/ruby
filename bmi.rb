@@ -39,5 +39,5 @@ class Human
           me.hello
           me.hello2
 
-          p me.bmi
+        #  p me.bmi
         #  #p me.check
